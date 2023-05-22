@@ -26,3 +26,4 @@
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
   "exclude": ["node_modules"]
 }
+// psql 'postgresql://Muhammad-Aneeq:qHF1heaxK7Gv@ep-solitary-lab-433762.us-east-2.aws.neon.tech/neondb'
